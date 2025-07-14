@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+diffusers
+transformers
+torch
+pillow
+streamlit
+requests
+pillow
