@@ -2,4 +2,5 @@ ai-face-filter-app/__pycache__
 ai-face-filter-app/backend/models/__pycache__
 ai-face-filter-app/backend/routes/__pycache__
 ai-face-filter-app/venv
+ai-face-filter-app/backend/__pycache__
 
